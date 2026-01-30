@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &9129522356267100436
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+      platformSettings:
+      - m_BuildTarget: iPhone
+        m_MaxTextureSize: 2048
+        m_ResizeAlgorithm: 0
+        m_FormatOverride: 0
+        m_Compression: 1
+        m_AllowedFormats: []
+        m_TextureCompression: 1
+      - m_BuildTarget: Android
+        m_MaxTextureSize: 2048
+        m_ResizeAlgorithm: 0
+        m_FormatOverride: 0
+        m_Compression: 1
+        m_AllowedFormats: []
+        m_TextureCompression: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 1
+    atlasName:
+    registerAsSpriteAtlas: 1
+    variantMultiplier: 1
+    variantSpecificOverride: 0
+  m_PlatformSettings: []
+  m_AtlasRenderers:
+  - renderer: 0
+    texture: {fileID: 0}
+    size: {x: 0, y: 0}
+    padding: 0
+    sprites: []
+  m_AtlasTextures:
+  - texture: {fileID: 0}
+    size: {x: 0, y: 0}
+    padding: 0
+    sprites: []
+  m_MasterAtlasIndex: 0
+  m_Tag: 
+  m_IsVariant: 0
